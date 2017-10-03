@@ -1,0 +1,4 @@
+message:  
+  greeting: Hello workflow engine from the dev wfengine configuration.....!!!
+server:
+  port: 8080
